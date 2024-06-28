@@ -39,6 +39,7 @@ $ npm install
 $ npm run start
 
 # watch mode
+# ファイルの変更監視をする場合 ※ブラウザは自分でリロードする必要あり
 $ npm run start:dev
 
 # production mode
